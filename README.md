@@ -1,2 +1,1 @@
-# .github
-Github organization profile settings
+# Den bedste minecraft server no cap
